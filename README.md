@@ -37,16 +37,6 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" />
 </div><br/>
 
-<h3 align="left">🔥   Status:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Willian017&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/willian017/willian017/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/willian017/willian017/output/github-contribution-grid-snake-dark.svg">
